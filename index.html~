@@ -5,25 +5,46 @@
   <title>やまもとの今までの成果物</title>
   <link rel="stylesheet" href="./css/reset.css">
   <link rel="stylesheet" href="./css/common.css">
+  <link rel="stylesheet" href="./css/font-awesome.min.css">
 </head>
 <body>
   <div id="head">
     <h1>やまもとの今までの成果物</h1>
     <nav class="icons">
       <ul>
-        <li><a href="/">home</a></li>
-        <li><a href="/">works</a></li>
-        <li><a href="/">about</a></li>
+        <li><a href="./"><i class="fa fa-home"> home</i></a></li>
+        <li><a href="./works.html"><i class="fa fa-file"> works</i></a></li>
+        <li><a href="./about.html"><i class="fa fa-user"> about</i></a></li>
       </ul>
     </nav>
   </div><!-- /#head -->
   <div id="mainContent" class="boxType01">
     <div class="box">
       <div class="imgArea">
-        <img src="" alt="">
+        <img src="./images/work_01.png" alt="サムネイル01">
       </div>
       <div class="infoArea">
         <ul class="tag">
+          <li class="html">HTML</li>
+          <li class="css">CSS</li>
+          <li class="php">PHP</li>
+          <li class="js">JS</li>
+          <li class="res">レスポンシブ対応</li>
+        </ul>
+        <p>ひとこと：</p>
+      </div>
+    </div><!-- /box -->
+    <div class="box">
+      <div class="imgArea">
+        <img src="./images/work_01.png" alt="サムネイル01">
+      </div>
+      <div class="infoArea">
+        <ul class="tag">
+          <li class="html">HTML</li>
+          <li class="css">CSS</li>
+          <li class="php">PHP</li>
+          <li class="js">JS</li>
+          <li class="res">レスポンシブ対応</li>
         </ul>
         <p>ひとこと：</p>
       </div>

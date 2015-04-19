@@ -10,9 +10,11 @@ body {
 #head {
   width: 100%;
   overflow: hidden;
+  margin-bottom: 50px;
 }
 #head h1 {
   width: 50%;
+  float: left;
   color: #fff;
   font-size: 16px;
   font-weight: normal;
@@ -23,3 +25,52 @@ body {
   width: 50%;
   float: right;
 }
+#head nav ul {
+  text-align: right;
+}
+#head nav li {
+  display: inline-block;
+  margin-left: 20px;
+}
+#head nav li a {
+  text-decoration: none;
+}
+#head nav li i { padding-right: 5px; }
+#head nav li i:hover { 
+  transition: 0.3s;
+  color: #bc624a;
+}
+
+/* #mainContent
+ ---------------*/
+.boxType01 {
+  width: 100%;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+.boxType01 .box {
+  display: inline-block;
+  font-size: 0;
+  width: 30%;
+  max-width: 300px;
+  margin: 0 50px 50px 0;
+  padding: 20px;
+  background: #fff;
+}
+.boxType01 .imgArea {
+  width: 80%;
+  margin: 25px auto 30px;
+}
+.boxType01 .infoArea ul li {
+  display: inline-block;
+  font-size: 12px;
+  color: #fff;
+  background: #afafaf;
+  padding: 5px 8px;
+  margin: 0 10px 10px 0;
+  border-radius: 5px;
+}
+.boxType01 .infoArea ul li.html { background: #DA5C2F; }
+.boxType01 .infoArea ul li.css { background: #3D97D7; }
+.boxType01 .infoArea ul li.php { background: #7BCD15; }
+.boxType01 .infoArea ul li.js { background: #F8CE3F; }
