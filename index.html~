@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>やまもとの今までの成果物</title>
+  <link rel="stylesheet" href="/css/common.css">
+  <link rel="stylesheet" href="/css/reset.css">
+</head>
+<body>
+  <div id="head">
+    <h1>やまもとの今までの成果物</h1>
+    <nav class="icons">
+      <ul>
+        <li><a href="/">home</a></li>
+        <li><a href="/">works</a></li>
+        <li><a href="/">about</a></li>
+      </ul>
+    </nav>
+  </div><!-- /#head -->
+  <div id="mainContent" class="boxType01">
+    <div class="box">
+      <div class="imgArea">
+        <img src="" alt="">
+      </div>
+      <div class="infoArea">
+        <ul class="tag">
+        </ul>
+        <p>ひとこと：</p>
+      </div>
+    </div><!-- /box -->
+  </div><!-- /#mainContent -->
+
+</body>
+</html>
