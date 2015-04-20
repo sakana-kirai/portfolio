@@ -22,7 +22,7 @@
   <div id="mainContent" class="boxType01">
     <div class="box">
       <div class="imgArea">
-        <img src="./images/work_01.png" alt="サムネイル01">
+        <img src="./images/work_01.jpg" alt="サムネイル01">
       </div>
       <div class="infoArea">
         <ul class="tag">
@@ -35,32 +35,117 @@
         <p>ひとこと：</p>
       </div>
     </div><!-- /box -->
+
     <div class="box">
       <div class="imgArea">
-        <img src="./images/work_01.png" alt="サムネイル01">
+        <img src="./images/work_02.jpg" alt="サムネイル02">
       </div>
       <div class="infoArea">
         <ul class="tag">
           <li class="html">HTML</li>
           <li class="css">CSS</li>
           <li class="php">PHP</li>
-          <li class="js">JS</li>
-          <li class="res">レスポンシブ対応</li>
         </ul>
         <p>ひとこと：</p>
       </div>
     </div><!-- /box -->
+
     <div class="box">
       <div class="imgArea">
-        <img src="./images/work_01.png" alt="サムネイル01">
+        <img src="./images/work_03.jpg" alt="サムネイル03">
+      </div>
+      <div class="infoArea">
+        <ul class="tag">
+          <li class="html">HTML</li>
+          <li class="css">CSS</li>
+          <li class="sp">スマホ対応</li>
+        </ul>
+        <p>ひとこと：</p>
+      </div>
+    </div><!-- /box -->
+
+    <div class="box">
+      <div class="imgArea">
+        <img src="./images/work_04.jpg" alt="サムネイル04">
+      </div>
+      <div class="infoArea">
+        <ul class="tag">
+          <li class="html">HTML</li>
+          <li class="css">CSS</li>
+          <li class="js">JS</li>
+          <li class="wp">WordPress</li>
+          <li class="sp">スマホ対応</li>
+        </ul>
+        <p>ひとこと：</p>
+      </div>
+    </div><!-- /box -->
+
+    <div class="box">
+      <div class="imgArea">
+        <img src="./images/work_05.jpg" alt="サムネイル05">
+      </div>
+      <div class="infoArea">
+        <ul class="tag">
+          <li class="html">HTML</li>
+          <li class="css">CSS</li>
+          <li class="wp">WordPress</li>
+        </ul>
+        <p>ひとこと：</p>
+      </div>
+    </div><!-- /box -->
+
+    <div class="box">
+      <div class="imgArea">
+        <img src="./images/work_06.jpg" alt="サムネイル06">
+      </div>
+      <div class="infoArea">
+        <ul class="tag">
+          <li class="html">HTML</li>
+          <li class="css">CSS</li>
+          <li class="wp">WordPress</li>
+        </ul>
+        <p>ひとこと：</p>
+      </div>
+    </div><!-- /box -->
+
+    <div class="box">
+      <div class="imgArea">
+        <img src="./images/work_07.jpg" alt="サムネイル07">
       </div>
       <div class="infoArea">
         <ul class="tag">
           <li class="html">HTML</li>
           <li class="css">CSS</li>
           <li class="php">PHP</li>
-          <li class="js">JS</li>
-          <li class="res">レスポンシブ対応</li>
+          <li class="wp">WordPress</li>
+        </ul>
+        <p>ひとこと：</p>
+      </div>
+    </div><!-- /box -->
+
+    <div class="box">
+      <div class="imgArea">
+        <img src="./images/work_08.jpg" alt="サムネイル08">
+      </div>
+      <div class="infoArea">
+        <ul class="tag">
+          <li class="html">HTML</li>
+          <li class="css">CSS</li>
+          <li class="dw">demandware</li>
+        </ul>
+        <p>ひとこと：</p>
+      </div>
+    </div><!-- /box -->
+
+    <div class="box">
+      <div class="imgArea">
+        <img src="./images/work_09.jpg" alt="サムネイル09">
+      </div>
+      <div class="infoArea">
+        <ul class="tag">
+          <li class="html">HTML</li>
+          <li class="css">CSS</li>
+          <li class="mt">MovableType</li>
         </ul>
         <p>ひとこと：</p>
       </div>
