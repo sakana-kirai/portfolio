@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="robots" content="none">
+  <meta name="viewport" content="width=device-width">
   <title>やまもとの今までの成果物</title>
   <link rel="stylesheet" href="./css/reset.css">
   <link rel="stylesheet" href="./css/common.css">
