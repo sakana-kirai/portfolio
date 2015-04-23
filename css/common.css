@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+html { position: relative; }
 body {
   background: #85B8BF;
   padding: 50px;
@@ -156,15 +157,35 @@ body {
   color: #fafafa;
   text-shadow: 1px 0 1px #678C92;
   padding: 0 20px 20px;
+  border-top: 1px solid #fafafa;
+  border-bottom: 1px solid #fafafa;
 }
-.boxType02 td,
+.boxType02 td { 
+  color: #fafafa;
+  padding: 20px;
+  border-top: 1px solid #fafafa;
+  border-bottom: 1px solid #fafafa;
+}
 .boxType02 td a,
-.boxType02 span{ color: #fafafa;  }
+.boxType02 span{ color: #fafafa; }
 .boxType02 td a:hover {
   color: #bc624a; 
   text-decoration: none;
 }
 
+/*
+ * footer
+ */
+footer {
+  position: fixed;
+  width: 100%;
+  background: #fafafa;
+  text-align: center;
+  left: 0;
+  bottom: 0;
+  padding: 5px 0 5px;
+  opacity: 0.6;
+}
 
 /*
  * module
