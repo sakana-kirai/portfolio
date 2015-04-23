@@ -15,7 +15,6 @@
     <nav class="icons">
       <ul>
         <li><a href="./"><i class="fa fa-home"> home</i></a></li>
-        <li><a href="./works.html"><i class="fa fa-file"> works</i></a></li>
         <li><a href="./about.html"><i class="fa fa-user"> about</i></a></li>
       </ul>
     </nav>
@@ -33,7 +32,17 @@
           <li class="js">JS</li>
           <li class="res">レスポンシブ対応</li>
         </ul>
-        <p>ひとこと：</p>
+      </div>
+      <div class="textArea">
+        <div class="title">鴎来堂</div>
+        <p>
+          ひとこと<br>
+          PHPでお問い合わせフォーム、JSで占いを作成。<br>
+          スマホ用のスタイル調整も担当。
+        </p>
+        <div class="buttonWrap">
+          <a href="http://www.ouraidou.net/" target="_blank" class="button">サイトを確認</a>
+        </div>
       </div>
     </div><!-- /box -->
 
@@ -47,7 +56,16 @@
           <li class="css">CSS</li>
           <li class="php">PHP</li>
         </ul>
-        <p>ひとこと：</p>
+      </div>
+      <div class="textArea">
+        <div class="title">紀尾井町 吉祥</div>
+        <p>
+          ひとこと<br>
+          PHPでお問い合わせフォームを作成。初めてのテーブルコーディング。
+        </p>
+        <div class="buttonWrap">
+          <a href="http://kioicho-kissho.com/" target="_blank" class="button">サイトを確認</a>
+        </div>
       </div>
     </div><!-- /box -->
 
@@ -61,7 +79,16 @@
           <li class="css">CSS</li>
           <li class="sp">スマホ対応</li>
         </ul>
-        <p>ひとこと：</p>
+      </div>
+      <div class="textArea">
+        <div class="title">Noodle Maker</div>
+        <p>
+          ひとこと<br>
+          私は麺のページのPC/スマホを担当。
+        </p>
+        <div class="buttonWrap">
+          <a href="http://www.japan.philips.co.jp/kitchen/noodlemaker/men/" target="_blank" class="button">サイトを確認</a>
+        </div>
       </div>
     </div><!-- /box -->
 
@@ -77,7 +104,16 @@
           <li class="wp">WordPress</li>
           <li class="sp">スマホ対応</li>
         </ul>
-        <p>ひとこと：</p>
+      </div>
+      <div class="textArea">
+        <div class="title">NAGOYA WOMEN'S MARATHON 2014</div>
+        <p>
+          ひとこと<br>
+          WordPressでの大規模マラソンサイト。私は主に、HTML/CSSコーディング、JSカウントダウンを担当。
+        </p>
+        <div class="buttonWrap">
+          <a href="http://womens.marathon-festival.com/2014/" target="_blank" class="button">サイトを確認</a>
+        </div>
       </div>
     </div><!-- /box -->
 
@@ -91,7 +127,17 @@
           <li class="css">CSS</li>
           <li class="wp">WordPress</li>
         </ul>
-        <p>ひとこと：</p>
+      </div>
+      <div class="textArea">
+        <div class="title">RUNNET EKIDEN 2013</div>
+        <p>
+          ひとこと<br>
+          WordPressでの小規模マラソンサイト。私は主に、HTML/CSSコーディング、WP実装を担当。<br>
+          ※すでにページがなくなっている部分があります。
+        </p>
+        <div class="buttonWrap">
+          <a href="http://runnet-ekiden.jp/2013/whatsnew/osaka" target="_blank" class="button">サイトを確認</a>
+        </div>
       </div>
     </div><!-- /box -->
 
@@ -105,7 +151,17 @@
           <li class="css">CSS</li>
           <li class="wp">WordPress</li>
         </ul>
-        <p>ひとこと：</p>
+      </div>
+      <div class="textArea">
+        <div class="title">第8回かさま陶芸の里ハーフマラソン</div>
+        <p>
+          ひとこと<br>
+          私が担当したものはHTML/CSSコーディング、WP実装。<br>
+          ※こちらのサイトは第8回のページが上書きされてしまいました。
+        </p>
+        <div class="buttonWrap">
+          <a href="http://kasa-mara.jp/" target="_blank" class="button">サイトを確認</a>
+        </div>
       </div>
     </div><!-- /box -->
 
@@ -120,7 +176,17 @@
           <li class="php">PHP</li>
           <li class="wp">WordPress</li>
         </ul>
-        <p>ひとこと：</p>
+      </div>
+      <div class="textArea">
+        <div class="title">おもてサンド</div>
+        <p>
+          ひとこと<br>
+          PCサイトを一部コーディング。<br>
+          スマホ用のCSS調整を担当しました。
+        </p>
+        <div class="buttonWrap">
+          <a href="http://www.omote-sando.info/" target="_blank" class="button">サイトを確認</a>
+        </div>
       </div>
     </div><!-- /box -->
 
@@ -134,7 +200,17 @@
           <li class="css">CSS</li>
           <li class="dw">demandware</li>
         </ul>
-        <p>ひとこと：</p>
+      </div>
+      <div class="textArea">
+        <div class="title">TaylorMade</div>
+        <p>
+          ひとこと<br>
+          demandwareを使用した大規模サイト。<br>
+          私は主に、demandwareの使用方法の調査、簡単なHTMLページ作成。
+        </p>
+        <div class="buttonWrap">
+          <a href="http://taylormadegolf.jp/" target="_blank" class="button">サイトを確認</a>
+        </div>
       </div>
     </div><!-- /box -->
 
@@ -148,10 +224,21 @@
           <li class="css">CSS</li>
           <li class="mt">MovableType</li>
         </ul>
-        <p>ひとこと：</p>
+      </div>
+      <div class="textArea">
+        <div class="title">NSK</div>
+        <p>
+          ひとこと<br>
+          MovableTypeを使用した大規模サイト。多言語対応。<br>
+          私は主に、製品ページ作成、多言語対応を担当。
+        </p>
+        <div class="buttonWrap">
+          <a href="http://www.japan.nsk-dental.com/" target="_blank" class="button">サイトを確認</a>
+        </div>
       </div>
     </div><!-- /box -->
   </div><!-- /#mainContent -->
+
 
 </body>
 </html>

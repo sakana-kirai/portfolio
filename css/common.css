@@ -5,8 +5,9 @@ body {
   padding: 50px;
 }
 
-/* #head
---------*/
+/*
+ * #head
+ * */
 #head {
   width: 100%;
   overflow: hidden;
@@ -41,17 +42,19 @@ body {
   color: #bc624a;
 }
 
-/* #mainContent
- ---------------*/
-.boxType01 {
-  width: 100%;
+/* 
+ * #mainContent
+ * */
+#mainContent{
   max-width: 1125px;
   margin: 0 auto;
   font-size: 0;
 }
 .boxType01 .box {
   display: inline-block;
+  overflow: hidden;
   width: 300px;
+  position: relative;
   margin: 0 35px 35px 0;
   padding: 20px;
   background: #fff;
@@ -77,3 +80,45 @@ body {
 .boxType01 .infoArea ul li.js { background: #F8CE3F; }
 .boxType01 .infoArea ul li.wp { background: #0F6F96; }
 .boxType01 .infoArea ul li.mt { background: #3F5E6F; }
+.boxType01 .box .textArea {
+  position: absolute;
+  font-size: 14px;
+  top: -100%;
+  left: 0;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,.6);
+  -webkit-transition: .3s;
+  transition: .3s;
+  opacity: 1;
+}
+.boxType01 .box:hover .textArea{
+  top: 0;
+  left: 0;
+}
+.boxType01 .box .textArea .title {
+  font-size: 28px;
+  color: #fafafa;
+  padding: 25px;
+}
+.boxType01 .box .textArea p {
+  font-size: 18px;
+  color: #fafafa;
+  padding: 0 25px 25px;
+}
+.boxType01 .box .textArea .buttonWrap {
+  display: block;
+  padding: 0 25px 25px;
+}
+.boxType01 .box .textArea .button {
+  display: inline-block;
+  padding: 5px 8px;
+  text-decoration: none;
+  background: #bababa;
+  color: #fafafa;
+  border-radius: 5px;
+}
+.boxType01 .box .textArea .button:hover {
+  background: #bc624a;
+}
