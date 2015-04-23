@@ -7,7 +7,7 @@ body {
 
 /*
  * #head
- * */
+ */
 #head {
   width: 100%;
   overflow: hidden;
@@ -44,12 +44,15 @@ body {
 
 /* 
  * #mainContent
- * */
+ */
 #mainContent{
   max-width: 1125px;
   margin: 0 auto;
   font-size: 0;
 }
+/*
+ * .boxType01
+ */
 .boxType01 .box {
   display: inline-block;
   overflow: hidden;
@@ -121,4 +124,52 @@ body {
 }
 .boxType01 .box .textArea .button:hover {
   background: #bc624a;
+}
+
+/*
+ * .boxType02
+ */
+#mainContent.boxType02 {
+  width: 100%;
+  font-size: 14px;
+}
+
+.boxType02 h1 {
+  color: #fff;
+  font-size: 16px;
+  font-weight: normal;
+  margin-bottom: 30px;
+  letter-spacing: 0.5em;
+  text-shadow: 2px 1px 2px #678C92;
+}
+.boxType02 .lead {
+  color: #fafafa;
+  font-size: 14px;
+  margin-bottom: 50px;
+  line-height: 1.8;
+}
+.boxType02 table {
+  width: 500px;
+}
+.boxType02 th {
+  font-weight: bold;
+  color: #fafafa;
+  text-shadow: 1px 0 1px #678C92;
+  padding: 0 20px 20px;
+}
+.boxType02 td,
+.boxType02 td a,
+.boxType02 span{ color: #fafafa;  }
+.boxType02 td a:hover {
+  color: #bc624a; 
+  text-decoration: none;
+}
+
+
+/*
+ * module
+ */
+.note {
+  font-size: 12px;
+  color: #ddd!important;
 }
